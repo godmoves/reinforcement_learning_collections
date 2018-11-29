@@ -2,6 +2,7 @@
 -  If the status of a project is `inactive`, it means there are less than 3 commits in last 3 months
 -  The `star` number is not updated in real time, I will fix this later
 -  Generally, almost all projects listed includes more than one algorithm and you can check out the algorithms implemented in each project [here](https://github.com/godmoves/reinforcement_learning_collections/blob/master/PROJECT_DETAIL.md).
+- [This](https://github.com/godmoves/reinforcement_learning_collections/blob/master/ALGORITHM.md) is a summary of different reinforcement learning algorithms implemented in there projects.
 
 
 |Project Name         |Author          |Framework |Status  |Stars|Repo|
