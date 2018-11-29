@@ -68,7 +68,7 @@
 
 |Project Name    |DQFD|TNPG|CMA ES|CEM|REPS|RWR|TD|DP|MC|SAC|TD3|C51|
 |----------------|----|----|------|---|----|---|--|--|--|---|---|---|
-|dopamine        |    |    |      |   |    |   |  |  |  |   |   |   |
+|dopamine        |    |    |      |   |    |   |  |  |  |   |   |√  |
 |baselines       |    |    |      |   |    |   |  |  |  |   |   |   |
 |RL w/ TF        |    |    |      |   |    |   |  |  |  |   |   |   |
 |TensorForce     |√   |    |      |   |    |   |  |  |  |   |   |   |
