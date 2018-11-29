@@ -1,3 +1,9 @@
+## Some explanations 
+-  If the status of a project is `inactive`, it means there are less than 3 commits in last 3 months
+-  The `star` number is not updated in real time, I will fix this later
+-  Generally, almost all projects listed includes more than one algorithm and I will upload a file later to describe the algorithms implemented in each project.
+
+
 |Project Name         |Author          |Framework |Status  |Stars|Repo|
 |---------------------|----------------|----------|--------|-----|----|
 |dopamine             |Google          |TensorFlow|active  |6451 |https://github.com/google/dopamine |
