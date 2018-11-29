@@ -19,9 +19,11 @@
 |pytorch-a2c-ppo-acktr|Ilya Kostrikov  |PyTorch   |active  |1024 |https://github.com/ikostrikov/pytorch-a2c-ppo-acktr |
 |DeepRL               |Shangtong Zhang |PyTorch   |active  |962  |https://github.com/ShangtongZhang/DeepRL |
 |coach                |Nervana         |TensorFLow|active  |940  |https://github.com/NervanaSystems/coach |
+|noreward-rl          |Deepak Pathak   |TensorFlow|inactive|868  |https://github.com/pathak22 |
 |scalable-agent       |DeepMind        |TensorFlow|inactive|534  |https://github.com/deepmind/scalable_agent |
 |stable-baselines     |hill-a          |TensorFlow|active  |421  |https://github.com/hill-a/stable-baselines |
 |SLM-Lab              |Wah Loon Keng   |PyTorch   |active  |407  |https://github.com/kengz/SLM-Lab |
+|large-scale-curiosity|OpenAI          |TensorFlow|inactive|361  |https://github.com/openai/large-scale-curiosity |
 |rlkit                |Vitchyr Pong    |PyTorch   |active  |322  |https://github.com/vitchyr/rlkit |
 |reaver-pysc2         |Roman Ring      |TensorFlow|active  |258  |https://github.com/inoryy/reaver-pysc2 |
 |lagom                |Xingdong Zuo    |PyTorch   |active  |202  |https://github.com/zuoxingdong/lagom |
