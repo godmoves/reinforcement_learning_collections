@@ -2,8 +2,8 @@
 |---------------------|----------------|----------|--------|-----|----|
 |dopamine             |Google          |TensorFlow|active  |6451 |https://github.com/google/dopamine |
 |baselines            |OpenAI          |TensorFlow|active  |6164 |https://github.com/openai/baselines |
-|RL_with_TF           |Morvan Zhou     |TensorFlow|active  |2666 |https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow |
-|TensorForce          |reinforce.io    |TensorFLow|inactive|2067 |https://github.com/reinforceio/tensorforce |
+|RL w/ TF             |Morvan Zhou     |TensorFlow|active  |2666 |https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow |
+|TensorForce          |reinforce.io    |TensorFLow|active  |2067 |https://github.com/reinforceio/tensorforce |
 |rllab                |Berkeley RLL    |Theano    |inactive|1927 |https://github.com/rll/rllab |
 |trfl                 |DeepMind        |TensorFlow|active  |1924 |https://github.com/deepmind/trfl |
 |drl                  |Udacity         |PyTorch   |inactive|1678 |https://github.com/udacity/deep-reinforcement-learning |
@@ -13,7 +13,7 @@
 |pytorch-a2c-ppo-acktr|Ilya Kostrikov  |PyTorch   |active  |1024 |https://github.com/ikostrikov/pytorch-a2c-ppo-acktr |
 |DeepRL               |Shangtong Zhang |PyTorch   |active  |962  |https://github.com/ShangtongZhang/DeepRL |
 |coach                |Nervana         |TensorFLow|active  |940  |https://github.com/NervanaSystems/coach |
-|scalable agent       |DeepMind        |TensorFlow|inactive|534  |https://github.com/deepmind/scalable_agent |
+|scalable-agent       |DeepMind        |TensorFlow|inactive|534  |https://github.com/deepmind/scalable_agent |
 |stable-baselines     |hill-a          |TensorFlow|active  |421  |https://github.com/hill-a/stable-baselines |
 |SLM-Lab              |Wah Loon Keng   |PyTorch   |active  |407  |https://github.com/kengz/SLM-Lab |
 |rlkit                |Vitchyr Pong    |PyTorch   |active  |322  |https://github.com/vitchyr/rlkit |
