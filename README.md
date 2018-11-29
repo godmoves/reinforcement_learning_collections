@@ -23,6 +23,7 @@
 |scalable-agent       |DeepMind        |TensorFlow|inactive|534  |https://github.com/deepmind/scalable_agent |
 |stable-baselines     |hill-a          |TensorFlow|active  |421  |https://github.com/hill-a/stable-baselines |
 |SLM-Lab              |Wah Loon Keng   |PyTorch   |active  |407  |https://github.com/kengz/SLM-Lab |
+|RND                  |OpenAI          |TensorFlow|active  |387  |https://github.com/openai/random-network-distillation |
 |large-scale-curiosity|OpenAI          |TensorFlow|inactive|361  |https://github.com/openai/large-scale-curiosity |
 |rlkit                |Vitchyr Pong    |PyTorch   |active  |322  |https://github.com/vitchyr/rlkit |
 |reaver-pysc2         |Roman Ring      |TensorFlow|active  |258  |https://github.com/inoryy/reaver-pysc2 |
