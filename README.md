@@ -1,4 +1,4 @@
-|Project Name         |Author          |Framework-|Status  |Repo|
+|Project Name         |Author          |Framework |Status  |Repo|
 |---------------------|----------------|----------|--------|----|
 |baselines            |OpenAI          |TensorFlow|active  |https://github.com/openai/baselines |
 |TensorForce          |reinforce.io    |TensorFLow|inactive|https://github.com/reinforceio/tensorforce |
