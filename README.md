@@ -19,7 +19,7 @@
 |pytorch-a2c-ppo-acktr|Ilya Kostrikov  |PyTorch   |active  |1024 |https://github.com/ikostrikov/pytorch-a2c-ppo-acktr |
 |DeepRL               |Shangtong Zhang |PyTorch   |active  |962  |https://github.com/ShangtongZhang/DeepRL |
 |coach                |Nervana         |TensorFLow|active  |940  |https://github.com/NervanaSystems/coach |
-|noreward-rl          |Deepak Pathak   |TensorFlow|inactive|868  |https://github.com/pathak22 |
+|noreward-rl          |Deepak Pathak   |TensorFlow|inactive|868  |https://github.com/pathak22/noreward-rl |
 |scalable-agent       |DeepMind        |TensorFlow|inactive|534  |https://github.com/deepmind/scalable_agent |
 |stable-baselines     |hill-a          |TensorFlow|active  |421  |https://github.com/hill-a/stable-baselines |
 |SLM-Lab              |Wah Loon Keng   |PyTorch   |active  |407  |https://github.com/kengz/SLM-Lab |
