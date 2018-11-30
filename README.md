@@ -5,35 +5,35 @@
 - [This](https://github.com/godmoves/reinforcement_learning_collections/blob/master/ALGORITHM.md) is a summary of different reinforcement learning algorithms implemented in there projects.
 
 
-|Project Name         |Author          |Framework |Status  |Stars|Repo|
-|---------------------|----------------|----------|--------|-----|----|
-|dopamine             |Google          |TensorFlow|active  |6451 |https://github.com/google/dopamine |
-|baselines            |OpenAI          |TensorFlow|active  |6164 |https://github.com/openai/baselines |
-|RL w/ TF             |Morvan Zhou     |TensorFlow|active  |2666 |https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow |
-|TensorForce          |reinforce.io    |TensorFLow|active  |2067 |https://github.com/reinforceio/tensorforce |
-|rllab                |Berkeley RLL    |Theano    |inactive|1927 |https://github.com/rll/rllab |
-|trfl                 |DeepMind        |TensorFlow|active  |1924 |https://github.com/deepmind/trfl |
-|drl                  |Udacity         |PyTorch   |inactive|1678 |https://github.com/udacity/deep-reinforcement-learning |
-|spinningup           |OpenAI          |TensorFlow|active  |1613 |https://github.com/openai/spinningup |
-|RL-Adventure-2       |higgsfield      |PyTorch   |inactive|1478 |https://github.com/higgsfield/RL-Adventure-2 |
-|Horizon              |Facebook        |PyTorch   |active  |1349 |https://github.com/facebookresearch/Horizon |
-|pytorch-a2c-ppo-acktr|Ilya Kostrikov  |PyTorch   |active  |1024 |https://github.com/ikostrikov/pytorch-a2c-ppo-acktr |
-|DeepRL               |Shangtong Zhang |PyTorch   |active  |962  |https://github.com/ShangtongZhang/DeepRL |
-|coach                |Nervana         |TensorFLow|active  |940  |https://github.com/NervanaSystems/coach |
-|noreward-rl          |Deepak Pathak   |TensorFlow|inactive|868  |https://github.com/pathak22/noreward-rl |
-|scalable-agent       |DeepMind        |TensorFlow|inactive|534  |https://github.com/deepmind/scalable_agent |
-|stable-baselines     |hill-a          |TensorFlow|active  |421  |https://github.com/hill-a/stable-baselines |
-|SLM-Lab              |Wah Loon Keng   |PyTorch   |active  |407  |https://github.com/kengz/SLM-Lab |
-|RND                  |OpenAI          |TensorFlow|active  |387  |https://github.com/openai/random-network-distillation |
-|large-scale-curiosity|OpenAI          |TensorFlow|inactive|361  |https://github.com/openai/large-scale-curiosity |
-|rlkit                |Vitchyr Pong    |PyTorch   |active  |322  |https://github.com/vitchyr/rlkit |
-|reaver-pysc2         |Roman Ring      |TensorFlow|active  |258  |https://github.com/inoryy/reaver-pysc2 |
-|lagom                |Xingdong Zuo    |PyTorch   |active  |202  |https://github.com/zuoxingdong/lagom |
-|robotics-rl-srl      |Antonin Raffin  |TensorFlow|active  |196  |https://github.com/araffin/robotics-rl-srl |
-|vel                  |MillionIntegrals|PyTorch   |active  |185  |https://github.com/MillionIntegrals/vel |
-|pytorch-rl           |Navneet M Kumar |PyTorch   |active  |160  |https://github.com/navneet-nmk/pytorch-rl |
-|garage               |rlworkgroup     |TF+TH     |active  |117  |https://github.com/rlworkgroup/garage |
-|ptan                 |Max Lapan       |PyTorch   |inactive|128  |https://github.com/Shmuma/ptan |
-|anyrl-py             |Alex Nichol     |TensorFlow|inactive|93   |https://github.com/unixpickle/anyrl-py |
-|torch-rl             |Lucas Willems   |PyTorch   |active  |71   |https://github.com/lcswillems/torch-rl |
-|rlgraph              |RLgraph         |TF+PT     |active  |33   |https://github.com/rlgraph/rlgraph |
+|index|Project Name|Author|Framework|Status|Stars|
+|-----|------------|------|---------|------|-----|
+|1|[dopamine](https://github.com/google/dopamine)|google|TensorFlow|active|6459|
+|2|[baselines](https://github.com/openai/baselines)|openai|TensorFlow|active|6173|
+|3|[Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)|MorvanZhou|TensorFlow|active|2674|
+|4|[tensorforce](https://github.com/reinforceio/tensorforce)|reinforceio|TensorFlow|active|2072|
+|5|[rllab](https://github.com/rll/rllab)|rll|Theano|inactive|1930|
+|6|[trfl](https://github.com/deepmind/trfl)|deepmind|TensorFlow|active|1930|
+|7|[deep-reinforcement-learning](https://github.com/udacity/deep-reinforcement-learning)|udacity|PyTorch|inactive|1679|
+|8|[spinningup](https://github.com/openai/spinningup)|openai|TensorFlow|active|1631|
+|9|[RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)|higgsfield|PyTorch|inactive|1479|
+|10|[Horizon](https://github.com/facebookresearch/Horizon)|facebookresearch|PyTorch|active|1363|
+|11|[pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)|ikostrikov|PyTorch|active|1026|
+|12|[DeepRL](https://github.com/ShangtongZhang/DeepRL)|ShangtongZhang|PyTorch|active|963|
+|13|[coach](https://github.com/NervanaSystems/coach)|NervanaSystems|TensorFlow|active|955|
+|14|[noreward-rl](https://github.com/pathak22/noreward-rl)|pathak22|TensorFlow|inactive|869|
+|15|[scalable_agent](https://github.com/deepmind/scalable_agent)|deepmind|TensorFlow|inactive|535|
+|16|[stable-baselines](https://github.com/hill-a/stable-baselines)|hill-a|TensorFlow|active|424|
+|17|[SLM-Lab](https://github.com/kengz/SLM-Lab)|kengz|PyTorch|active|407|
+|18|[random-network-distillation](https://github.com/openai/random-network-distillation)|openai|TensorFlow|active|388|
+|19|[large-scale-curiosity](https://github.com/openai/large-scale-curiosity)|openai|TensorFlow|inactive|364|
+|20|[rlkit](https://github.com/vitchyr/rlkit)|vitchyr|PyTorch|active|324|
+|21|[reaver-pysc2](https://github.com/inoryy/reaver-pysc2)|inoryy|TensorFlow|active|271|
+|22|[lagom](https://github.com/zuoxingdong/lagom)|zuoxingdong|PyTorch|active|203|
+|23|[robotics-rl-srl](https://github.com/araffin/robotics-rl-srl)|araffin|TensorFlow|active|198|
+|24|[vel](https://github.com/MillionIntegrals/vel)|MillionIntegrals|PyTorch|active|185|
+|25|[pytorch-rl](https://github.com/navneet-nmk/pytorch-rl)|navneet-nmk|PyTorch|active|160|
+|26|[ptan](https://github.com/Shmuma/ptan)|Shmuma|PyTorch|inactive|128|
+|27|[garage](https://github.com/rlworkgroup/garage)|rlworkgroup|TensorFlow+Theano|active|122|
+|28|[anyrl-py](https://github.com/unixpickle/anyrl-py)|unixpickle|TensorFlow|inactive|94|
+|29|[torch-rl](https://github.com/lcswillems/torch-rl)|lcswillems|PyTorch|active|71|
+|30|[rlgraph](https://github.com/rlgraph/rlgraph)|rlgraph|TensorFlow+PyTorch|active|35|
