@@ -5,8 +5,8 @@
 - [This](https://github.com/godmoves/reinforcement_learning_collections/blob/master/ALGORITHM.md) is a summary of different reinforcement learning algorithms implemented in there projects.
 
 
-|index|Project Name|Author|Framework|Status|Stars|
-|-----|------------|------|---------|------|-----|
+|No|Project Name|Author|Framework|Status|Stars|
+|--|------------|------|---------|------|-----|
 |1|[dopamine](https://github.com/google/dopamine)|google|TensorFlow|active|6459|
 |2|[baselines](https://github.com/openai/baselines)|openai|TensorFlow|active|6173|
 |3|[Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)|MorvanZhou|TensorFlow|active|2674|
